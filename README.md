@@ -44,3 +44,5 @@ This means you can use, modify, and distribute it without any restriction.  I
 appreciate, but don't require, acknowledgement in derivative works.
 
 [1]: http://brennan.io/2015/01/16/write-a-shell-in-c/
+
+By Andrew and Mohamed
